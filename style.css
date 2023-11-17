@@ -185,6 +185,7 @@ body {
 	font-size: 1rem;
 	text-align: center;
 }
+
 .detail-section:hover .title-icon {
 	transform: scale(1.5);
 	margin-right: 1.5rem;
@@ -319,6 +320,7 @@ body {
 	transform: translate(-50%, -50%);
 }
 /* Interests Section */
+
 .outer-frame {
 	border: 1px solid var(--color-gray-dark-3);
 	border-radius: 5px;
@@ -353,6 +355,26 @@ body {
 }
 .favor-list > li > span {
 	letter-spacing: 1px;
+}
+.headphones-alt {
+	background-image: url(https://tse4.mm.bing.net/th?id=OIP.ssABQKyXycJ0PvAbGajMJAHaHa&pid=Api&P=0&h=180);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.paw{
+	background-image: url(https://tse4.mm.bing.net/th?id=OIP.jc5loBgK2hMWgiJxhW8l0gHaHa&pid=Api&P=0&h=180);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.gamepad{
+	background-image: url(https://tse3.mm.bing.net/th?id=OIP.zlHyV6XHNZMC5THL9KOocQHaHa&pid=Api&P=0&h=180);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.spells{
+	background-image: url(https://tse1.mm.bing.net/th?id=OIP.U-mKLACPLALl8e9AuSjZxAHaD8&pid=Api&P=0&h=180);
+	background-size: 100%;
+	background-repeat: no-repeat;
 }
 
 @keyframes circle {
